@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title of the document</title>
-  </head>
-  <body>
-    <form>
+    <title>Title of the doc
       <select>
         <option value="books">Books</option>
         <option value="html">HTML</option>
